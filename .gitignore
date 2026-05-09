@@ -1,0 +1,28 @@
+# ── Gradle ──
+.gradle/
+local.properties
+gradle/wrapper/gradle-wrapper.jar
+
+# ── 构建产物 ──
+/build/
+/app/build/
+/app/release/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# ── OpenCV SDK（预构建库，非项目源码） ──
+/opencv/
+
+# ── IDE ──
+*.iml
+.idea/
+.DS_Store
+
+# ── Kotlin ──
+.kotlin/
+
+# ── 其他 ──
+*.apk
+*.aab
+*.hprof
