@@ -23,27 +23,26 @@ B站手机版首页或频道页会以网格形式展示多个视频封面。当�
 3. **选择视频块** → 按想要的拼接顺序依次点击各个视频块
 4. **拼接结果** → 预览拼接后的图片，点击保存
 
-## 截图
+## 使用教程
 
-> **首页**
+### 选择一个B站的截图
 
-**image**
+<img width="376" height="818" alt="image" src="https://github.com/user-attachments/assets/bdfad047-b23a-41dc-8561-06a3fdde4eb6" />
 
-> **标记裁剪线**
 
-**image**
+### 标记裁剪线
 
-> **选择视频块**
+<img width="373" height="800" alt="image-1" src="https://github.com/user-attachments/assets/198f5440-b793-406d-b672-4369fd5da94c" />
 
-**image**
+### 选择要拼接的视频封面
 
-> **拼接结果**
+<img width="370" height="806" alt="image-2" src="https://github.com/user-attachments/assets/285b238e-e389-41a3-9525-774c926a4303" />
 
-**image**
+### 查看拼接结果
 
-> **关于我**
+<img width="363" height="798" alt="image-3" src="https://github.com/user-attachments/assets/8ef61efb-1703-4c44-ae37-ea16584aa1c1" />
 
-**image**
+### 保存到相册
 
 ## 技术栈
 
@@ -70,9 +69,9 @@ git clone https://github.com/WalkerBaoZhi/BiliCut.git
 
 ## 致谢
 
-- 感谢 B站 提供的优秀内容平台（本工具仅用于截图后处理，与 B站官方无关）
+- 感谢 `WalkerBaoZhi` 优秀的创作者
 
 ## 关于作者
 
-- **WalkerBaoZhi** - 喜欢开发小应用的大学生
+- **WalkerBaoZhi** - 喜欢开发小应用的萌新
 - GitHub: [https://github.com/WalkerBaoZhi/](https://github.com/WalkerBaoZhi/)
